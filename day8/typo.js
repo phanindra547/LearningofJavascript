@@ -8,7 +8,7 @@ document.write(typeof a +"<br>" )
 document.write(typeof b + "<br>")
 document.write(typeof c + "<br>")
 document.write(typeof r+ "<br>")
-document.write(typeof h +"<hr style=solid>")
+document.write(typeof h +"<hr>")
 
 var x = "843879"
 var x1=8428
