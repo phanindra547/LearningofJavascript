@@ -38,7 +38,6 @@ function sports(){
 
     }
     document.write(current)
-    document.write(presnet)
     
     
 
