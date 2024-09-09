@@ -8,5 +8,5 @@
 
 const target=document.querySelector(".sidenav")
 console.log(target.removeAttribute("class"))
-
+//usage of css in js
 document.querySelector("header").style.backgroundColor="red"
